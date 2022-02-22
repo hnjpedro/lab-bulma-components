@@ -1,0 +1,8 @@
+.message {
+    max-width:350px;
+    margin: auto
+}
+
+.message-body {
+    text-align: left
+}

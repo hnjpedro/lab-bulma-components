@@ -1,6 +1,10 @@
 .field {
     max-width: 600px;
-    padding-left: 20px
+    margin: auto
+}
+
+.field:last-child {
+    margin-bottom: 10px
 }
 
 .label {
